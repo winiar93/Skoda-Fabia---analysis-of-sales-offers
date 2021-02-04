@@ -4,8 +4,11 @@ Analysis of skoda fabia sales offers, based on scraped data from the auction sit
 Tools used in this project:
 
 pandas           : 1.1.3
+
 matplotlib       : 3.3.2
+
 selenium         : 3.141.0
+
 seaborn          : 0.11.0
 
 
