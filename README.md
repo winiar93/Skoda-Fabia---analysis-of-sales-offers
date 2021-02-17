@@ -12,5 +12,10 @@ selenium         : 3.141.0
 seaborn          : 0.11.0
 
 
-Using very simply web scraper, I downloaded abut 900 Skoda Fabia offers.
+Using very simply web scraper, I downloaded about 900 Skoda Fabia offers.
 Made analyse to find voivodeship with lowest price mean, using pandas in jupyter notebook.
+
+
+Close future plans:
+- make some charts
+- implement scikit-learn percepron to estimate car price
