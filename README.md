@@ -18,8 +18,8 @@ Made analyse to find voivodeship with lowest price mean, using pandas in jupyter
 
 Close future plans:
 - make some charts
-
+- implement adaline perceptron 
 
 Update:
 - prepared data to use with linear regression model ( standarization and label encoding)
-- added scikit-learn lib to predict car price but model score is very bad ( need more data or prepare them in better way)
+- added scikit-learn lib to predict car price but model score is very bad ( probably is not possible to use linear regression)
