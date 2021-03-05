@@ -15,7 +15,7 @@ seaborn          : 0.11.0
 Using very simply web scraper, I downloaded about 900 Skoda Fabia offers.
 Made analyse to find voivodeship with lowest mean price, using pandas in jupyter notebook.
 Also applayed a regression model to predict price of Skoda Fabia on parameters like: mileage,
-year of production, location/voivodeship, fuel type
+year of production, location/voivodeship, fuel type.
 
 Close future plans:
 
