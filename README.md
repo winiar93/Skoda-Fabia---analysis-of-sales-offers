@@ -13,14 +13,19 @@ seaborn          : 0.11.0
 
 
 Using very simply web scraper, I downloaded about 900 Skoda Fabia offers.
-Made analyse to find voivodeship with lowest price mean, using pandas in jupyter notebook.
-
+Made analyse to find voivodeship with lowest mean price, using pandas in jupyter notebook.
+Also applayed a regression model to predict price of Skoda Fabia on parameters like: mileage,
+year of production, location/voivodeship, fuel type
 
 Close future plans:
-- remove outliers by IQR method
-- add some charts
+
 - implement adaline perceptron 
 
 Update:
 - prepared data to use with linear regression model ( standarization and label encoding)
-- added scikit-learn lib to predict car price but model score is very bad ( probably is not possible to use linear regression)
+- added scikit-learn lib to predict car price but model score is very bad
+
+Next update:
+- after apply IQR method to delete outliers, model accuracy is 78%
+- added a plot with milage and price coefficient and with regression line
+- example of prediction price of two cars with different parameters
