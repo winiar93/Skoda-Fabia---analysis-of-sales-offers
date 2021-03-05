@@ -21,11 +21,11 @@ Close future plans:
 
 - implement adaline perceptron 
 
-Update:
+Update v2:
 - prepared data to use with linear regression model ( standarization and label encoding)
 - added scikit-learn lib to predict car price but model score is very bad
 
-Next update:
+Update v3:
 - after apply IQR method to delete outliers, model accuracy is 78%
 - added a plot with milage and price coefficient and with regression line
 - example of prediction price of two cars with different parameters
