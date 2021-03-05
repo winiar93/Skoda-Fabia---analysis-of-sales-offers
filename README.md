@@ -17,7 +17,8 @@ Made analyse to find voivodeship with lowest price mean, using pandas in jupyter
 
 
 Close future plans:
-- make some charts
+- remove outliers by IQR method
+- add some charts
 - implement adaline perceptron 
 
 Update:
